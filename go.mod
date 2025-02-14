@@ -1,6 +1,6 @@
-module bitbucket.org/guillospy/logger
+module github.com/guillospy92/logger
 
-go 1.21.3
+go 1.23.3
 
 require (
 	github.com/pkg/errors v0.9.1
